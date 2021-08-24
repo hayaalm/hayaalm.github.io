@@ -4,7 +4,7 @@ description: Data Scientist
 url: https://HayaAlmutairi.github.io
 paginate: 5
 permalink: pretty
-cover_image: /BlueTech.jpeg
+cover_image: BlueTech.jpeg
 
 # Gems
 plugins:
