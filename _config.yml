@@ -1,7 +1,7 @@
 # Setup
-title: Not Pure Poole
-description: A simple, beautiful, and powerful Jekyll theme for blogs
-url: https://vszhub.github.io
+title: Haya Almutairi
+description: Data Scientist
+url: https://HayaAlmutairi.github.io
 avatar: /avatar.jpeg
 paginate: 5
 permalink: pretty
@@ -29,14 +29,15 @@ exclude:
 
 # Optimize Jekyl SEO Tag
 twitter:
-  username: vszhub
+  username: iHayaSM
   card: summary
 logo: logo.png
 social:
-  name: Songzi Vong
+  name: Haya Almutairi
   links:
-    - https://twitter.com/vszhub
-    - https://github.com/vszhub
+    - https://twitter.com/iHayaSM
+    - https://github.com/HayaAlmutairi
+    - https://www.linkedin.com/in/haya-almutairi/
 google_site_verification: xxxxx
 lang: en
 
@@ -54,6 +55,6 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Songzi Vong
-  url: https://github.com/vszhub/
-  email: vszhub@gmail.com
+  name: Haya Almutairi
+  url: https://github.com/HayaAlmutairi/
+  email: ihaya.almutairi@gmail.com
