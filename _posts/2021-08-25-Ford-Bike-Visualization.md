@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ford GoBike system Data
+title: Ford GoBike System Data
 date: 2021-08-15 23:18 +0800
 ---
 # Data Visualiztion
@@ -26,8 +26,22 @@ Comparing trip duration to starting hour, When limiting the trip duration to 20 
 
 # Trip duration and user type
 Subscriber’ trips are clearly shorter than the those of the customers.
+
 ![img4](https://mahmoudsaziz.files.wordpress.com/2021/02/image-3.png)
 
+# Trip duration and user type
+That’s because these are mostly work related trips and time is a factor here. This can be visualized by plotting number of trips during different hours for different user types.
 
+![img5](https://mahmoudsaziz.files.wordpress.com/2021/02/image-4.png)
+
+# Start hour, user type and average trip duration
+Customers have less variation in average trip duration during the day. while the effect of rush hours are clear on average trip duration of subscribers.
+
+![img5](https://mahmoudsaziz.files.wordpress.com/2021/02/image-1-1.png)
+
+# Start hour, user gender and average trip duration
+There seem to be no change in the patterns, although the mean values are larger for females.
+
+![img5](https://mahmoudsaziz.files.wordpress.com/2021/02/image-7.png)
 
 
