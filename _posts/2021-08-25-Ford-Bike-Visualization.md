@@ -3,6 +3,7 @@ layout: post
 title: Ford GoBike System Data
 date: 2021-08-15 23:18 +0800
 ---
+# Data Visualiztion
 ![FordBike](https://live.staticflickr.com/936/29927098378_86fc9a6f54_b.jpg)
 
 # Investigation Overview
