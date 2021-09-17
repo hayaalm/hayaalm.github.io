@@ -3,7 +3,7 @@ layout: post
 title: A/B Testing
 tags: [Python]
 date: 2020-09-29 23:18 +0800
-toc:  true
+
 ---
 Within the framework this project, we tried to understand whether the company should implement a new page or keep the old page with some statistical techniques.
 
