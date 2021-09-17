@@ -5,7 +5,7 @@ tags: [Python]
 date: 2020-09-29 23:18 +0800
 toc:  true
 ---
-Within the framework this project, we tried to understand whether the company should implement a new page or keep the old page with the statistical techniques.
+Within the framework this project, we tried to understand whether the company should implement a new page or keep the old page with some statistical techniques.
 
 ![testing](https://www.invespcro.com/blog/images/blog-images/12-Lessons-from-Running-512-AB-Tests-in-One-Year_Invesp-1.png)
 
