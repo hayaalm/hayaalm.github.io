@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Walmart Data-Retail Analysis
+tags: [Python]
 date: 2020-10-02 15:32 +0800
 ---
 Build algorithm will predict demand accurately and ingest factors like economic conditions including CPI, Unemployment Index, etc.
