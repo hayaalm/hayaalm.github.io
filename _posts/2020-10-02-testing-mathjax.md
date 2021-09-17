@@ -7,4 +7,4 @@ Build algorithm will predict demand accurately and ingest factors like economic 
 
 ![Walmart](https://www.signalsaz.com/wp-content/uploads/2020/03/Walmart.jpg)
 
-[Lets go to GitHub](https://github.com/HayaAlmutairi/Walmart-Retail-Analysis)
+[This Project’s GitHub Repository](https://github.com/HayaAlmutairi/Walmart-Retail-Analysis)
