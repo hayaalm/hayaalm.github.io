@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Web Scraping Twitter Data
+tags: [Python]
 date: 2020-10-01 13:56 +0800
 ---
 Tweet Archive of Twitter User @dog_rates data analysis I will be gathering data from three sources, including downloading file from Udacity, dowloading from url and web scraping from Twitter API.
