@@ -1,9 +1,6 @@
 - title: Email
   url: mailto://ihaya.almutairi@gmail.com
   icon: fas fa-envelope
-- title: Twitter
-  url: https://twitter.com/iHayaSM
-  icon: fab fa-twitter
 - title: GitHub
   url: https://github.com/HayaAlmutairi
   icon: fab fa-github
