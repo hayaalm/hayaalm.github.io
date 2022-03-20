@@ -4,7 +4,7 @@ description: Data Analyst
 url: https://HayaAlmutairi.github.io
 paginate: 5
 permalink: pretty
-cover_image: /Techb.jpg
+cover_image: https://cdn.mryum.com/prod/06bc880b-dfe5-40c5-8a5e-e7ca22d293c5
 
 # Gems
 plugins:
