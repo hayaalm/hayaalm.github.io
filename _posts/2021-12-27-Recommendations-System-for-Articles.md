@@ -25,3 +25,5 @@ Function `create_user_item_matrix`: reformat the df dataframe to be shaped with 
 
 `V.` Matrix Factorization
 Build use matrix factorization to make article recommendations to the users on the IBM Watson Studio platform.
+
+[This Project’s GitHub Repository](https://github.com/HayaAlmutairi/Recommendations-With-IBM)
