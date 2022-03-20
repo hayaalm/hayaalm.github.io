@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Walmart Data-Retail Analysis
+title: Sales-Retail Analysis
 tags: [Python]
 date: 2020-10-02 15:32 +0800
 ---
